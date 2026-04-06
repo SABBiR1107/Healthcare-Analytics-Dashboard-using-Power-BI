@@ -105,28 +105,27 @@ The project uses 5 datasets:
 
 ## 📂 Project Structure
 
-'''
+```
 Healthcare-PowerBI-Project/
 │
 ├── data/
-│ ├── patients.csv
-│ ├── doctors.csv
-│ ├── appointments.csv
-│ ├── treatments.csv
-│ └── billing.csv
+│   ├── patients.csv
+│   ├── doctors.csv
+│   ├── appointments.csv
+│   ├── treatments.csv
+│   └── billing.csv
 │
 ├── dashboard/
-│ └── Healthcare_Analytics.pbix
+│   └── Healthcare_Analytics.pbix
 │
 ├── images/
-│ ├── overview.png
-│ ├── patient_insights.png
-│ ├── doctor_performance.png
-│ └── billing_analysis.png
+│   ├── overview.png
+│   ├── patient_insights.png
+│   ├── doctor_performance.png
+│   └── billing_analysis.png
 │
 └── README.md
-
-'''
+```
 ---
 
 ## 💼 Portfolio Value
